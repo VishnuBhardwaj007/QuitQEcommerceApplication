@@ -1,0 +1,331 @@
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\appsettings.json
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.exe
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.deps.json
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.runtimeconfig.json
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.pdb
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.csproj.AssemblyReference.cache
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.AssemblyInfoInputs.cache
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.AssemblyInfo.cs
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.csproj.CoreCompileInputs.cache
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.QuitQ_Ecom.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.build.QuitQ_Ecom.props
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuitQ_Ecom.props
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuitQ_Ecom.props
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\scopedcss\bundle\QuitQ_Ecom.styles.css
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.csproj.CopyComplete
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\refint\QuitQ_Ecom.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.pdb
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.genruntimeconfig.cache
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\ref\QuitQ_Ecom.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.sourcelink.json
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\mirza\Desktop\QuitQ_Ecom_CaseStudy\QuitQ_Ecom\bin\Debug\net6.0\Razorpay.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\appsettings.json
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.exe
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.deps.json
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.runtimeconfig.json
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.pdb
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Razorpay.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.csproj.AssemblyReference.cache
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.AssemblyInfoInputs.cache
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.AssemblyInfo.cs
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.csproj.CoreCompileInputs.cache
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.QuitQ_Ecom.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.build.QuitQ_Ecom.props
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuitQ_Ecom.props
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuitQ_Ecom.props
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\scopedcss\bundle\QuitQ_Ecom.styles.css
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.csproj.CopyComplete
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\refint\QuitQ_Ecom.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.pdb
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.genruntimeconfig.cache
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\obj\Debug\net6.0\ref\QuitQ_Ecom.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Serilog.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\mirza\Desktop\merging_code\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\appsettings.json
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.exe
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.deps.json
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.runtimeconfig.json
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.pdb
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Humanizer.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Razorpay.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.csproj.AssemblyReference.cache
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.AssemblyInfoInputs.cache
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.AssemblyInfo.cs
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.csproj.CoreCompileInputs.cache
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.QuitQ_Ecom.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.build.QuitQ_Ecom.props
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuitQ_Ecom.props
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuitQ_Ecom.props
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\scopedcss\bundle\QuitQ_Ecom.styles.css
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.csproj.Up2Date
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\refint\QuitQ_Ecom.dll
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.pdb
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.genruntimeconfig.cache
+C:\Users\91816\OneDrive\Documents\Project QUitQ\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\ref\QuitQ_Ecom.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\appsettings.json
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.exe
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.deps.json
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.runtimeconfig.json
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\QuitQ_Ecom.pdb
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Razorpay.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.csproj.AssemblyReference.cache
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.AssemblyInfoInputs.cache
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.AssemblyInfo.cs
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.csproj.CoreCompileInputs.cache
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.QuitQ_Ecom.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.build.QuitQ_Ecom.props
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuitQ_Ecom.props
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuitQ_Ecom.props
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\scopedcss\bundle\QuitQ_Ecom.styles.css
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.csproj.CopyComplete
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\refint\QuitQ_Ecom.dll
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.pdb
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\QuitQ_Ecom.genruntimeconfig.cache
+C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\obj\Debug\net6.0\ref\QuitQ_Ecom.dll

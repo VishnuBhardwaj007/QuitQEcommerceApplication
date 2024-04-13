@@ -1,0 +1,753 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\shipperrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\shipperrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\iorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\iorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\useraddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\useraddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\subcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\subcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\useraddressrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\useraddressrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\genderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\genderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\wishlistrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\wishlistrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\subcategoryrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\subcategoryrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\storerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\storerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\staterepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\staterepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\productrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\productrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\paymentrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\paymentrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\orderrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\orderrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\models\\quitqecomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:models\\quitqecomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\orderitemrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\orderitemrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\brandrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\brandrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\cartrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\cartrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\imagerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\imagerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\genderrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\genderrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\cityrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\cityrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\categoryrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\categoryrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\iuseraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\iuseraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|c:\\users\\91816\\onedrive\\documents\\project quitq\\quitq_ecom\\quitq_ecom\\repository\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F435C1-FDEE-411C-8385-D7948AA037DD}|QuitQ_Ecom.csproj|solutionrelative:repository\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategory.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\ICategory.cs",
+              "RelativeDocumentMoniker": "Repository\\ICategory.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\ICategory.cs",
+              "RelativeToolTip": "Repository\\ICategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:17:21.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAQwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WishlistController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "Controllers\\WishlistController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwEEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\IOrderItem.cs",
+              "RelativeDocumentMoniker": "Repository\\IOrderItem.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\IOrderItem.cs",
+              "RelativeToolTip": "Repository\\IOrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShipperRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\ShipperRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\ShipperRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\ShipperRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\ShipperRepositoryImpl.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAQwLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:00:36.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Controllers\\TokenController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAQwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:04:11.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAddressController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\UserAddressController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserAddressController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\UserAddressController.cs",
+              "RelativeToolTip": "Controllers\\UserAddressController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAQwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:06:35.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShipperController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\ShipperController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShipperController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\ShipperController.cs",
+              "RelativeToolTip": "Controllers\\ShipperController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAQwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:50:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\SubCategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubCategoriesController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\SubCategoriesController.cs",
+              "RelativeToolTip": "Controllers\\SubCategoriesController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:02:01.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoresController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "Controllers\\StoresController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAQwJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:59:16.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StateController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Controllers\\StateController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAQwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:57:04.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAddressRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\UserAddressRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\UserAddressRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\UserAddressRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\UserAddressRepositoryImpl.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAYwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:25:51.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\UserRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\UserRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\UserRepositoryImpl.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Controllers\\ImagesController.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAQwKgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:44:17.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GendersController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\GendersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GendersController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\GendersController.cs",
+              "RelativeToolTip": "Controllers\\GendersController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAQwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:42:08.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:36:54.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAQwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:34:43.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StoreRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\StoreRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\StoreRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\StoreRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\StoreRepositoryImpl.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAYwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:15:03.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "Controllers\\CheckoutController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAQwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:16:54.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAQwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PaymentRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\PaymentRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\PaymentRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\PaymentRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\PaymentRepositoryImpl.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwDwAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:16:10.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WishlistRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\WishlistRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\WishlistRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\WishlistRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\WishlistRepositoryImpl.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwEYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAwIkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SubCategoryRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\SubCategoryRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\SubCategoryRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\SubCategoryRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\SubCategoryRepositoryImpl.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAYwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:23:14.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StateRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\StateRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\StateRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\StateRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\StateRepositoryImpl.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAzwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:05:28.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "QuitQEcomContext.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Models\\QuitQEcomContext.cs",
+              "RelativeDocumentMoniker": "Models\\QuitQEcomContext.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Models\\QuitQEcomContext.cs",
+              "RelativeToolTip": "Models\\QuitQEcomContext.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAADwvy8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:24:39.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\OrderRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\OrderRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\OrderRepositoryImpl.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAYwBwBAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\ProductRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\ProductRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\ProductRepositoryImpl.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAYwOcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BrandRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\BrandRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\BrandRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\BrandRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\BrandRepositoryImpl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:57:10.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderItemRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\OrderItemRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderItemRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\OrderItemRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\OrderItemRepositoryImpl.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CityRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\CityRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\CityRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\CityRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\CityRepositoryImpl.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAQwHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:14:21.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CartRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\CartRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\CartRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\CartRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\CartRepositoryImpl.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAQwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:59:06.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GenderRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\GenderRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\GenderRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\GenderRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\GenderRepositoryImpl.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAzwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:14:41.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ImageRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\ImageRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\ImageRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\ImageRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\ImageRepositoryImpl.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAQwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:14:56.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\CategoryRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\CategoryRepositoryImpl.cs",
+              "RelativeToolTip": "Repository\\CategoryRepositoryImpl.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:14:18.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BrandDTO.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\DTOs\\BrandDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\BrandDTO.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\DTOs\\BrandDTO.cs",
+              "RelativeToolTip": "DTOs\\BrandDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Models\\Brand.cs",
+              "RelativeToolTip": "Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUserAddress.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\IUserAddress.cs",
+              "RelativeDocumentMoniker": "Repository\\IUserAddress.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\IUserAddress.cs",
+              "RelativeToolTip": "Repository\\IUserAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\IUser.cs",
+              "RelativeDocumentMoniker": "Repository\\IUser.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\IUser.cs",
+              "RelativeToolTip": "Repository\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\IProduct.cs",
+              "RelativeDocumentMoniker": "Repository\\IProduct.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\IProduct.cs",
+              "RelativeToolTip": "Repository\\IProduct.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\IPayment.cs",
+              "RelativeDocumentMoniker": "Repository\\IPayment.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\IPayment.cs",
+              "RelativeToolTip": "Repository\\IPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\IOrder.cs",
+              "RelativeDocumentMoniker": "Repository\\IOrder.cs",
+              "ToolTip": "C:\\Users\\91816\\OneDrive\\Documents\\Project QUitQ\\QuitQ_Ecom\\QuitQ_Ecom\\Repository\\IOrder.cs",
+              "RelativeToolTip": "Repository\\IOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:56:46.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

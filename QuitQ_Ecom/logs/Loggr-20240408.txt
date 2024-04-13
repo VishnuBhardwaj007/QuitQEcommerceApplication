@@ -1,0 +1,168 @@
+2024-04-08 00:00:52.981 +05:30 [INF] User profile is available. Using 'C:\Users\mirza\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-08 00:00:53.845 +05:30 [INF] Now listening on: https://localhost:7036
+2024-04-08 00:00:53.846 +05:30 [INF] Now listening on: http://localhost:5228
+2024-04-08 00:00:53.849 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-08 00:00:53.850 +05:30 [INF] Hosting environment: Development
+2024-04-08 00:00:53.850 +05:30 [INF] Content root path: C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\
+2024-04-08 00:00:56.094 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - -
+2024-04-08 00:00:56.450 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - - - 200 - text/html;charset=utf-8 361.8756ms
+2024-04-08 00:00:56.456 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - -
+2024-04-08 00:00:56.456 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - -
+2024-04-08 00:00:56.470 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 13.9675ms
+2024-04-08 00:00:56.530 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 73.2500ms
+2024-04-08 00:00:56.596 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - -
+2024-04-08 00:00:56.756 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 159.1808ms
+2024-04-08 00:08:38.348 +05:30 [INF] User profile is available. Using 'C:\Users\mirza\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-08 00:08:38.684 +05:30 [INF] Now listening on: https://localhost:7036
+2024-04-08 00:08:38.685 +05:30 [INF] Now listening on: http://localhost:5228
+2024-04-08 00:08:38.688 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-08 00:08:38.689 +05:30 [INF] Hosting environment: Development
+2024-04-08 00:08:38.689 +05:30 [INF] Content root path: C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\
+2024-04-08 00:08:40.601 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - -
+2024-04-08 00:08:40.907 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - - - 200 - text/html;charset=utf-8 306.4016ms
+2024-04-08 00:08:40.915 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - -
+2024-04-08 00:08:40.915 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - -
+2024-04-08 00:08:40.934 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 18.4686ms
+2024-04-08 00:08:40.982 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 66.7067ms
+2024-04-08 00:08:41.033 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - -
+2024-04-08 00:08:41.190 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 156.4219ms
+2024-04-08 12:44:04.790 +05:30 [INF] User profile is available. Using 'C:\Users\mirza\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-08 12:44:06.853 +05:30 [INF] Now listening on: https://localhost:7036
+2024-04-08 12:44:06.854 +05:30 [INF] Now listening on: http://localhost:5228
+2024-04-08 12:44:06.859 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-08 12:44:06.861 +05:30 [INF] Hosting environment: Development
+2024-04-08 12:44:06.862 +05:30 [INF] Content root path: C:\Users\mirza\Downloads\QuitQ_Ecom_I\QuitQ_Ecom\QuitQ_Ecom\
+2024-04-08 12:44:09.129 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - -
+2024-04-08 12:44:10.223 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - - - 200 - text/html;charset=utf-8 1102.1634ms
+2024-04-08 12:44:10.231 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - -
+2024-04-08 12:44:10.249 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 17.9349ms
+2024-04-08 12:44:10.278 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - -
+2024-04-08 12:44:10.449 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 171.9532ms
+2024-04-08 12:44:10.910 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - -
+2024-04-08 12:44:11.368 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 457.8764ms
+2024-04-08 12:44:45.770 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/api/cities - -
+2024-04-08 12:44:46.186 +05:30 [INF] Executing endpoint 'QuitQ_Ecom.Controllers.CityController.GetAllCities (QuitQ_Ecom)'
+2024-04-08 12:44:46.263 +05:30 [INF] Route matched with {action = "GetAllCities", controller = "City"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCities() on controller QuitQ_Ecom.Controllers.CityController (QuitQ_Ecom).
+2024-04-08 12:44:50.422 +05:30 [INF] Entity Framework Core 6.0.28 initialized 'QuitQEcomContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.28' with options: None
+2024-04-08 12:44:53.574 +05:30 [INF] Executed DbCommand (573ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[CityId], [c].[CityName], [c].[StateId]
+FROM [City] AS [c]
+2024-04-08 12:44:54.021 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[QuitQ_Ecom.DTOs.CityDTO, QuitQ_Ecom, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-04-08 12:44:54.073 +05:30 [INF] Executed action QuitQ_Ecom.Controllers.CityController.GetAllCities (QuitQ_Ecom) in 7784.1007ms
+2024-04-08 12:44:54.084 +05:30 [INF] Executed endpoint 'QuitQ_Ecom.Controllers.CityController.GetAllCities (QuitQ_Ecom)'
+2024-04-08 12:44:54.101 +05:30 [INF] HTTP GET /api/cities responded 200 in 8310.5339 ms
+2024-04-08 12:44:54.138 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/api/cities - - - 200 - application/json;+charset=utf-8 8368.3892ms
+2024-04-08 12:45:17.635 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7036/api/cities application/json 60
+2024-04-08 12:45:17.657 +05:30 [INF] CORS policy execution successful.
+2024-04-08 12:45:17.681 +05:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (admin)
+2024-04-08 12:45:17.713 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2024-04-08 12:45:17.717 +05:30 [INF] HTTP POST /api/cities responded 401 in 72.4676 ms
+2024-04-08 12:45:17.733 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7036/api/cities application/json 60 - 401 0 - 96.9235ms
+2024-04-08 12:50:14.821 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/api/users - -
+2024-04-08 12:50:14.829 +05:30 [INF] Executing endpoint 'QuitQ_Ecom.Controllers.UsersController.GetAllUsers (QuitQ_Ecom)'
+2024-04-08 12:50:14.832 +05:30 [INF] Route matched with {action = "GetAllUsers", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllUsers() on controller QuitQ_Ecom.Controllers.UsersController (QuitQ_Ecom).
+2024-04-08 12:50:14.852 +05:30 [INF] Entity Framework Core 6.0.28 initialized 'QuitQEcomContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.28' with options: None
+2024-04-08 12:50:14.948 +05:30 [INF] Executed DbCommand (84ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[UserId], [u].[ContactNumber], [u].[Dob], [u].[Email], [u].[FirstName], [u].[GenderId], [u].[LastName], [u].[Password], [u].[UserStatusId], [u].[UserTypeId], [u].[Username]
+FROM [Users] AS [u]
+2024-04-08 12:50:15.007 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[QuitQ_Ecom.DTOs.UserDTO, QuitQ_Ecom, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-04-08 12:50:15.026 +05:30 [INF] Executed action QuitQ_Ecom.Controllers.UsersController.GetAllUsers (QuitQ_Ecom) in 192.698ms
+2024-04-08 12:50:15.027 +05:30 [INF] Executed endpoint 'QuitQ_Ecom.Controllers.UsersController.GetAllUsers (QuitQ_Ecom)'
+2024-04-08 12:50:15.028 +05:30 [INF] HTTP GET /api/users responded 200 in 203.5809 ms
+2024-04-08 12:50:15.029 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/api/users - - - 200 - application/json;+charset=utf-8 207.8554ms
+2024-04-08 12:51:24.327 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7036/register application/json 285
+2024-04-08 12:51:24.340 +05:30 [INF] CORS policy execution successful.
+2024-04-08 12:51:24.342 +05:30 [INF] Executing endpoint 'QuitQ_Ecom.Controllers.UsersController.Register (QuitQ_Ecom)'
+2024-04-08 12:51:24.360 +05:30 [INF] Route matched with {action = "Register", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(QuitQ_Ecom.DTOs.UserDTO) on controller QuitQ_Ecom.Controllers.UsersController (QuitQ_Ecom).
+2024-04-08 12:51:24.526 +05:30 [INF] Entity Framework Core 6.0.28 initialized 'QuitQEcomContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.28' with options: None
+2024-04-08 12:51:24.944 +05:30 [INF] Executed DbCommand (215ms) [Parameters=[@p0='?' (Size = 30) (DbType = AnsiString), @p1='?' (DbType = Date), @p2='?' (Size = 200) (DbType = AnsiString), @p3='?' (Size = 100) (DbType = AnsiString), @p4='?' (DbType = Int32), @p5='?' (Size = 100) (DbType = AnsiString), @p6='?' (Size = 8000) (DbType = AnsiString), @p7='?' (DbType = Int32), @p8='?' (DbType = Int32), @p9='?' (Size = 100) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([ContactNumber], [Dob], [Email], [FirstName], [GenderId], [LastName], [Password], [UserStatusId], [UserTypeId], [Username])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
+SELECT [UserId]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [UserId] = scope_identity();
+2024-04-08 12:51:25.021 +05:30 [INF] Executing OkObjectResult, writing value of type 'QuitQ_Ecom.DTOs.UserDTO'.
+2024-04-08 12:51:25.023 +05:30 [INF] Executed action QuitQ_Ecom.Controllers.UsersController.Register (QuitQ_Ecom) in 661.2921ms
+2024-04-08 12:51:25.025 +05:30 [INF] Executed endpoint 'QuitQ_Ecom.Controllers.UsersController.Register (QuitQ_Ecom)'
+2024-04-08 12:51:25.026 +05:30 [INF] HTTP POST /register responded 200 in 685.9937 ms
+2024-04-08 12:51:25.027 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7036/register application/json 285 - 200 - application/json;+charset=utf-8 700.5557ms
+2024-04-08 12:51:51.163 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/api/users - -
+2024-04-08 12:51:51.179 +05:30 [INF] Executing endpoint 'QuitQ_Ecom.Controllers.UsersController.GetAllUsers (QuitQ_Ecom)'
+2024-04-08 12:51:51.190 +05:30 [INF] Route matched with {action = "GetAllUsers", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllUsers() on controller QuitQ_Ecom.Controllers.UsersController (QuitQ_Ecom).
+2024-04-08 12:51:51.196 +05:30 [INF] Entity Framework Core 6.0.28 initialized 'QuitQEcomContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.28' with options: None
+2024-04-08 12:51:51.200 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[UserId], [u].[ContactNumber], [u].[Dob], [u].[Email], [u].[FirstName], [u].[GenderId], [u].[LastName], [u].[Password], [u].[UserStatusId], [u].[UserTypeId], [u].[Username]
+FROM [Users] AS [u]
+2024-04-08 12:51:51.201 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[QuitQ_Ecom.DTOs.UserDTO, QuitQ_Ecom, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-04-08 12:51:51.202 +05:30 [INF] Executed action QuitQ_Ecom.Controllers.UsersController.GetAllUsers (QuitQ_Ecom) in 8.7057ms
+2024-04-08 12:51:51.204 +05:30 [INF] Executed endpoint 'QuitQ_Ecom.Controllers.UsersController.GetAllUsers (QuitQ_Ecom)'
+2024-04-08 12:51:51.204 +05:30 [INF] HTTP GET /api/users responded 200 in 25.3742 ms
+2024-04-08 12:51:51.206 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/api/users - - - 200 - application/json;+charset=utf-8 42.4158ms
+2024-04-08 12:52:23.223 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7036/api/token/login application/json 56
+2024-04-08 12:52:23.230 +05:30 [INF] CORS policy execution successful.
+2024-04-08 12:52:23.231 +05:30 [INF] Executing endpoint 'QuitQ_Ecom.Controllers.TokenController.Post (QuitQ_Ecom)'
+2024-04-08 12:52:23.237 +05:30 [INF] Route matched with {action = "Post", controller = "Token"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(QuitQ_Ecom.DTOs.LoginDTO) on controller QuitQ_Ecom.Controllers.TokenController (QuitQ_Ecom).
+2024-04-08 12:52:23.246 +05:30 [INF] Entity Framework Core 6.0.28 initialized 'QuitQEcomContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.28' with options: None
+2024-04-08 12:52:23.536 +05:30 [INF] Executed DbCommand (53ms) [Parameters=[@__8__locals1_username_0='?' (Size = 100) (DbType = AnsiString), @__hashedpassword_1='?' (Size = 8000) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[ContactNumber], [u].[Dob], [u].[Email], [u].[FirstName], [u].[GenderId], [u].[LastName], [u].[Password], [u].[UserStatusId], [u].[UserTypeId], [u].[Username]
+FROM [Users] AS [u]
+WHERE ([u].[Username] = @__8__locals1_username_0) AND ([u].[Password] = @__hashedpassword_1)
+2024-04-08 12:52:23.560 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[@__UsertypeId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserType]
+FROM [UserType] AS [u]
+WHERE [u].[UserTypeId] = @__UsertypeId_0
+2024-04-08 12:52:23.900 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-04-08 12:52:23.903 +05:30 [INF] Executed action QuitQ_Ecom.Controllers.TokenController.Post (QuitQ_Ecom) in 662.9789ms
+2024-04-08 12:52:23.904 +05:30 [INF] Executed endpoint 'QuitQ_Ecom.Controllers.TokenController.Post (QuitQ_Ecom)'
+2024-04-08 12:52:23.905 +05:30 [INF] HTTP POST /api/token/login responded 200 in 675.1893 ms
+2024-04-08 12:52:23.906 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7036/api/token/login application/json 56 - 200 - text/plain;+charset=utf-8 682.8899ms
+2024-04-08 12:53:14.956 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7036/api/cities - -
+2024-04-08 12:53:15.090 +05:30 [INF] Executing endpoint 'QuitQ_Ecom.Controllers.CityController.GetAllCities (QuitQ_Ecom)'
+2024-04-08 12:53:15.093 +05:30 [INF] Route matched with {action = "GetAllCities", controller = "City"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCities() on controller QuitQ_Ecom.Controllers.CityController (QuitQ_Ecom).
+2024-04-08 12:53:15.095 +05:30 [INF] Entity Framework Core 6.0.28 initialized 'QuitQEcomContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.28' with options: None
+2024-04-08 12:53:15.098 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[CityId], [c].[CityName], [c].[StateId]
+FROM [City] AS [c]
+2024-04-08 12:53:15.099 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[QuitQ_Ecom.DTOs.CityDTO, QuitQ_Ecom, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-04-08 12:53:15.101 +05:30 [INF] Executed action QuitQ_Ecom.Controllers.CityController.GetAllCities (QuitQ_Ecom) in 6.3959ms
+2024-04-08 12:53:15.102 +05:30 [INF] Executed endpoint 'QuitQ_Ecom.Controllers.CityController.GetAllCities (QuitQ_Ecom)'
+2024-04-08 12:53:15.103 +05:30 [INF] HTTP GET /api/cities responded 200 in 145.2412 ms
+2024-04-08 12:53:15.104 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7036/api/cities - - - 200 - application/json;+charset=utf-8 147.9757ms
+2024-04-08 12:53:31.437 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7036/api/cities application/json 60
+2024-04-08 12:53:31.443 +05:30 [INF] CORS policy execution successful.
+2024-04-08 12:53:31.445 +05:30 [INF] Executing endpoint 'QuitQ_Ecom.Controllers.CityController.AddCity (QuitQ_Ecom)'
+2024-04-08 12:53:31.449 +05:30 [INF] Route matched with {action = "AddCity", controller = "City"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCity(QuitQ_Ecom.DTOs.CityDTO) on controller QuitQ_Ecom.Controllers.CityController (QuitQ_Ecom).
+2024-04-08 12:53:31.462 +05:30 [INF] Entity Framework Core 6.0.28 initialized 'QuitQEcomContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.28' with options: None
+2024-04-08 12:53:31.485 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[@p0='?' (Size = 100) (DbType = AnsiString), @p1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [City] ([CityName], [StateId])
+VALUES (@p0, @p1);
+SELECT [CityId]
+FROM [City]
+WHERE @@ROWCOUNT = 1 AND [CityId] = scope_identity();
+2024-04-08 12:53:31.495 +05:30 [INF] Executing CreatedAtActionResult, writing value of type 'QuitQ_Ecom.DTOs.CityDTO'.
+2024-04-08 12:53:31.534 +05:30 [INF] Executed action QuitQ_Ecom.Controllers.CityController.AddCity (QuitQ_Ecom) in 81.808ms
+2024-04-08 12:53:31.539 +05:30 [INF] Executed endpoint 'QuitQ_Ecom.Controllers.CityController.AddCity (QuitQ_Ecom)'
+2024-04-08 12:53:31.541 +05:30 [INF] HTTP POST /api/cities responded 201 in 98.5209 ms
+2024-04-08 12:53:31.543 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7036/api/cities application/json 60 - 201 - application/json;+charset=utf-8 106.0969ms
+2024-04-08 12:53:45.507 +05:30 [INF] Request starting HTTP/2 DELETE https://localhost:7036/api/cities/4 - -
+2024-04-08 12:53:45.508 +05:30 [INF] CORS policy execution successful.
+2024-04-08 12:53:45.510 +05:30 [INF] Executing endpoint 'QuitQ_Ecom.Controllers.CityController.DeleteCity (QuitQ_Ecom)'
+2024-04-08 12:53:45.515 +05:30 [INF] Route matched with {action = "DeleteCity", controller = "City"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteCity(Int32) on controller QuitQ_Ecom.Controllers.CityController (QuitQ_Ecom).
+2024-04-08 12:53:45.528 +05:30 [INF] Entity Framework Core 6.0.28 initialized 'QuitQEcomContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.28' with options: None
+2024-04-08 12:53:45.573 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[CityId], [c].[CityName], [c].[StateId]
+FROM [City] AS [c]
+WHERE [c].[CityId] = @__p_0
+2024-04-08 12:53:45.635 +05:30 [INF] Executed DbCommand (32ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [City]
+WHERE [CityId] = @p0;
+SELECT @@ROWCOUNT;
+2024-04-08 12:53:45.644 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-04-08 12:53:45.645 +05:30 [INF] Executed action QuitQ_Ecom.Controllers.CityController.DeleteCity (QuitQ_Ecom) in 125.5909ms
+2024-04-08 12:53:45.646 +05:30 [INF] Executed endpoint 'QuitQ_Ecom.Controllers.CityController.DeleteCity (QuitQ_Ecom)'
+2024-04-08 12:53:45.646 +05:30 [INF] HTTP DELETE /api/cities/4 responded 200 in 138.1452 ms
+2024-04-08 12:53:45.647 +05:30 [INF] Request finished HTTP/2 DELETE https://localhost:7036/api/cities/4 - - - 200 - text/plain;+charset=utf-8 139.9174ms
